@@ -1,1 +1,1 @@
-just created a tableau dashboard from a dataet 
+just created a tableau dashboard from a dataset 
